@@ -6,6 +6,7 @@ UE4 tutorial World Position Offset
 A tutorial about vertices manipulation using materials in Unreal Engine 4
 
 * [Part 1: Transform Location](https://www.parallelcube.com/2020/06/24/world-position-offset-part-1/)
+* [Part 2: Scaling Objects](https://www.parallelcube.com/2020/08/09/world-position-offset-part-2/)
 
 #### Materials
 - *M_Cube_offset*: Material to apply a cube displacement using the pixel color of a texture
@@ -16,6 +17,7 @@ A tutorial about vertices manipulation using materials in Unreal Engine 4
 Un tutorial sobre manipulación de vértices utilizando materiales en Unreal Engine 4
 
 * [Parte 1: Transformada de posicion](https://www.parallelcube.com/es/2020/07/01/world-position-offset-parte-1/)
+* [Parte 2: Redimensionar objetos](https://www.parallelcube.com/es/2020/08/11/world-position-offset-parte-2/)
 
 #### Materials
 - *M_Cube_offset*: Material para aplicar un desplazamiento de los cubos del modelo utilizando el color del pixel de una textura
